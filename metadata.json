@@ -1,0 +1,6 @@
+{
+  "name": "SIRCAM - Student Information & Attendance",
+  "description": "Student Information & Records, and Classroom Attendance Monitoring with QR Scanner, Offline SQLite storage, Firestore Cloud sync, and Automated Parent Alerts.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

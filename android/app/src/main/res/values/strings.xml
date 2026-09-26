@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SIRCAM</string>
+    <string name="title_activity_main">SIRCAM</string>
+    <string name="package_name">com.sircam.app</string>
+    <string name="custom_url_scheme">com.sircam.app</string>
+</resources>
